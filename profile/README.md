@@ -40,8 +40,8 @@ WOP
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=TilinSolutions&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TilinSolutions&theme=synthwave&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=vasodeaguua6611&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vasodeaguua6611&theme=synthwave&hide_border=false)
   
 </div>
 
